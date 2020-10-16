@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**zmrdltl/zmrdltl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
 
@@ -13,7 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... blog : codecollector.tistory.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🍖 My motto: 1 commit per day, complete what i said, respect team members, faith
 -->
+
 ### 😂trying to be good	###
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
