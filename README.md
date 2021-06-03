@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... blog : codecollector.tistory.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🍖 My motto: 1 commit per day, complete what i said, respect team members, faith
+- 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith
 -->
 
 ### 😂trying to be good	###
