@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Hongik Univ. 4th grade
 - 👯 I’m looking to collaborate on ... naver, kakao, or other it companies
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... blog : codecollector.tistory.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith
+- 💬 Ask me about 
+- 📫 How to reach me: blog - codecollector.tistory.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
+- 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith with responsibility
 -->
 
 ### 😂trying to be good	###
