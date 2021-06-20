@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: blog - codecollector.tistory.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: i love cheese
 - 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith with responsibility
 -->
 
