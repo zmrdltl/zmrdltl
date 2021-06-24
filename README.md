@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Hongik Univ. 4th grade
+- 🌱 I’m currently learning ... Hongik Univ. 4th grade graduate 2021.08
 - 👯 I’m looking to collaborate on ... naver, kakao, or other it companies
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
