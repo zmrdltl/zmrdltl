@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - 
 - 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith with responsibility
+
 -->
 
 <h1 align="center">Hi 👋, I'm Meen Seek Kim</h1>
