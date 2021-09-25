@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **java, spring, javascript, c++, rust**
 
 - 📫 How to reach me
-- 📧 **meenseek5929@naver.com**
+  - 📧 **meenseek5929@naver.com**
 - 📝 **https://codecollector.tistory.com**
 
 - ⚡ Fun fact: i love cheese
