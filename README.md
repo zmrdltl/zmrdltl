@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... naver, kakao, or other it companies
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
-- 📫 How to reach me: blog - codecollector.tistory.com
 - 😄 Pronouns: 
 - 
 - 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith with responsibility
@@ -18,7 +17,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **java, spring, javascript, c++, rust**
 
-- 📫 How to reach me **meenseek5929@naver.com**
+- 📫 How to reach me
+- 📧 **meenseek5929@naver.com**
+- 📝 **codecollector.tistory.com**
 
 - ⚡ Fun fact: i love cheese
 <h3 align="left">Languages and Tools:</h3>
