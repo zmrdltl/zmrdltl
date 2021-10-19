@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me
   - 📧 **meenseek5929@naver.com**
-- 📝 blog **https://codecollector.tistory.com**
+- 📝 blog 
+  - **https://codecollector.tistory.com**
 
 - ⚡ Fun fact: i love cheese
 <h3 align="left">Languages and Tools:</h3>
