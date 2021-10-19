@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=monokai&count_private=true)
 
 ### :trophy: Github Profile Tropy
-[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--START_SECTION:waka-->
