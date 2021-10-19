@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234EBFC7&title_bg=%23156870&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
-![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
+![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=monokai&count_private=true)
 
 ### :trophy: Github Profile Tropy
 [![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
