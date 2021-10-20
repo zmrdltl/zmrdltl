@@ -37,7 +37,7 @@ I love cheese
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
 
 ### :trophy: Github Profile Tropy
-[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=MultipleLang&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--START_SECTION:waka-->
