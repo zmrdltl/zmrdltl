@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **java, spring, javascript, c++, rust**
 
-###📕 How to reach me
+###:closed_book: How to reach me
   📧 **meenseek5929@naver.com**
 
-###📕 blog 
+###:closed_book: blog 
   📝 **https://codecollector.tistory.com**
 
 - i love cheese
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234EBFC7&title_bg=%23156870&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-###📕 Solved.ac Profile
+###:closed_book: Solved.ac Profile
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
 ### Github Stats
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
