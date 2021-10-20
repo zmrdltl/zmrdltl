@@ -33,7 +33,7 @@ I love cheese
 <br/>
 ### :closed_book: Solved.ac Profile
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
-### Github Stats
+### :closed_book: Github Stats
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
 
 ### :trophy: Github Profile Tropy
