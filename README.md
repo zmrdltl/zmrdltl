@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">2021.08 graduated Hongik Univ. Computer engineering major</h3>
 
 🌱 I’m currently learning **java, spring, javascript, c++, rust**
-I love cheese
+<br/>
+😄 I love cheese
 ### :closed_book: How to reach me
   📧 **meenseek5929@naver.com**
 
