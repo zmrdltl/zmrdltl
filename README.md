@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🍖 My motto: endurance all day, 1 commit per day, complete what i said, respect team members, faith with responsibility
 -->
 
-<h1 align="center">Hi 👋, I'm Meen Seek Kim</h1>
+<h1 align="center"> 👋 Meen Seek Kim </h1>
 <h3 align="center"> Graduated Hongik Univ. Computer Engineering major</h3>
 
 🌱 I’m currently learning **java, spring, javascript, c++, rust**
