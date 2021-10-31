@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Meen Seek Kim</h1>
-<h3 align="center">2021.08 graduated Hongik Univ. Computer engineering major</h3>
+<h3 align="center"> Graduated Hongik Univ. Computer Engineering major</h3>
 
 🌱 I’m currently learning **java, spring, javascript, c++, rust**
 <br/>
