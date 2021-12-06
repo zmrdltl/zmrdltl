@@ -39,9 +39,3 @@ Here are some ideas to get you started:
 
 ### :trophy: Github Profile Tropy
 [![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
