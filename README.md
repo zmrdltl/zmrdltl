@@ -98,6 +98,9 @@ Here are some ideas to get you started:
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
 ### :closed_book: Github Stats
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :trophy: Github Profile Tropy
 [![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
