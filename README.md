@@ -101,6 +101,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :trophy: Github Profile Tropy
-[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
