@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center"> 👋 Meen Seek Kim </h1>
 <h3 align="center"> Graduated Hongik Univ. Computer Engineering major</h3>
 
-🌱 Currently learning **java, spring, javascript, c++, rust**
+🌱 Currently learning **java, spring, rust, go, k8s, terraform**
 <br/>
 😄 I love cheese
 ### :closed_book: How to reach me
