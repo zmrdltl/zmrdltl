@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ### :closed_book: Github Stats
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :trophy: Github Profile Tropy
 [![trophy](https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
