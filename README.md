@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
-  <a href="[https://www.rust-lang.org]" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg](https://www.rust-lang.org/logos/rust-logo-512x512.png)" alt="rust" width="40" height="40"/> 
+  <a href="[https://www.rust-lang.org]" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
