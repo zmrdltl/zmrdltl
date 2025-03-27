@@ -13,20 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.GH_TOKEN || github.token }}
-          fetch-depth: 0
 
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
-          REPOSITORY: ${{ github.repository }}
-          SHOW_TITLE: true
-          SECTION_NAME: "waka"
-          BLOCKS: "-> "
-          TIME_RANGE: "all_time"
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          COMMIT_MESSAGE: "Updated waka-readme stats"
-          TARGET_BRANCH: "master"
+          SECTION_NAME: waka
