@@ -12,6 +12,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN || github.token }}
+          
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          REPOSITORY: ${{ github.repository }}
+          SHOW_TITLE: true
