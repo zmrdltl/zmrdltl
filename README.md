@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Meen%20Seek%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </div>
 
-<h1 align="center"> 👋 Meen Seek Kim(김민식) </h1>
 <h3 align="center"> Graduated Hongik Univ. Computer Engineering major</h3>
 
 <div align="center">
