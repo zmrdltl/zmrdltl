@@ -97,6 +97,15 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    16 hrs 4 mins   ██████████▒░░░░░░░░░░░░░░   41.15 %
+Rust          15 hrs 22 mins  ██████████░░░░░░░░░░░░░░░   39.36 %
+Git           2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+TOML          1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JavaScript    1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+```
+
 <!--END_SECTION:waka-->
 
 ### :closed_book: Solved.ac Profile
