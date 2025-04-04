@@ -140,12 +140,13 @@ Other         1 hr 31 mins    █▒░░░░░░░░░░░░░░�
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true" alt="zmrdltl's github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact&theme=radical" alt="Top Langs" />
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true" alt="zmrdltl's github stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
 </div>
 
 <br>
