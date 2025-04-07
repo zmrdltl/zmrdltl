@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📫 How to reach me
-- 📧 **meenseek5929@naver.com**
-- 📝 **[Tech Blog](https://codecollector.tistory.com)**
-
-<br>
-
 ## 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
