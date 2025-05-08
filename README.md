@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   58 mins         ██████████████████░░░░░░░   71.65 %
-Git    23 mins         ███████░░░░░░░░░░░░░░░░░░   28.34 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
