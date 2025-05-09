@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   2 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   44.77 %
+Rust         53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+TOML         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
