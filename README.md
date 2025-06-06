@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   12 hrs 15 mins  ████████████████▒░░░░░░░░   65.15 %
-Rust         3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-TOML         1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-CSS          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-HTML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JavaScript   10 hrs 31 mins  ███████████████▒░░░░░░░░░   61.70 %
+Rust         3 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+TOML         2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+HTML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Git          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
