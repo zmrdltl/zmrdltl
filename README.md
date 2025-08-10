@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         15 hrs 7 mins   ███████████████░░░░░░░░░░   60.00 %
+Rust         15 hrs 7 mins   ███████████████░░░░░░░░░░   60.01 %
 CSS          4 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
 TOML         1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 Git          1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
