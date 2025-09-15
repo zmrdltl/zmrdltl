@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         4 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.01 %
-TOML         2 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
-Markdown     1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Rust         5 hrs 14 mins   █████████████▒░░░░░░░░░░░   52.74 %
+TOML         2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+Markdown     1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
