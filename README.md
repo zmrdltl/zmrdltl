@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ```txt
 Rust         13 hrs 2 mins   ████████████░░░░░░░░░░░░░   47.98 %
 TOML         5 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-JavaScript   2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+JavaScript   2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 Markdown     2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
 GraphQL      1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
