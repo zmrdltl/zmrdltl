@@ -148,10 +148,6 @@ Python               1 hr 4 mins     ▓░░░░░░░░░░░░░�
   ### Solved.ac Profile
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl" alt="Solved.ac프로필" />
   
-  ### GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=zmrdltl&title=Commit,PullRequest,Followers,Repositories,Stars,Issues,MultipleLang,Organizations&theme=radical&column=4&margin-w=15&margin-h=15" alt="trophy" />
-  
 </div>
 
 <br>
