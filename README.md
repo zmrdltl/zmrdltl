@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        16 hrs 41 mins        ████████████████▓░░░░░░░░   66.19 %
-Markdown     3 hrs 43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Rust         2 hrs 43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-TypeScript   1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-SQL          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        12 hrs 59 mins        ███████████████▓░░░░░░░░░   62.82 %
+Markdown     3 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+Rust         2 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+TypeScript   1 hr 45 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+SQL          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
