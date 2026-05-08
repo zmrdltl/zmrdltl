@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      1 hr 34 mins          ███████████████████░░░░░░   76.17 %
-Rust       29 mins               ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
