@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        2 hrs 45 mins         ███████████████▒░░░░░░░░░   61.43 %
+Markdown     47 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+TypeScript   29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Text         13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+CocoaPods    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
