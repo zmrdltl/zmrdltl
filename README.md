@@ -135,8 +135,8 @@ JSON         31 mins               ▒░░░░░░░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmrdltl&show_icons=true&theme=radical&count_private=true" alt="zmrdltl's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zmrdltl&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zmrdltl&theme=radical" alt="Most used languages" />
 </p>
 
 <br>
